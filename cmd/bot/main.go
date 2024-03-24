@@ -4,9 +4,9 @@ package main
 //
 //	"log"
 //
-//	"gitlab.ozon.dev/classroom-4/teachers/workshop-1-bot/internal/clients/tg"
-//	"gitlab.ozon.dev/classroom-4/teachers/workshop-1-bot/internal/config"
-//	"gitlab.ozon.dev/classroom-4/teachers/workshop-1-bot/internal/model/messages"
+//	"github.com/workshop-1-bot/internal/clients/tg"
+//	"github.com/workshop-1-bot/internal/config"
+//	"github.com/workshop-1-bot/internal/model/messages"
 //
 // )
 func main() {
