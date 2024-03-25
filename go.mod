@@ -1,3 +1,8 @@
 module workshop1-bot
 
-go 1.13
+go 1.16
+
+require (
+	github.com/golang/mock v1.6.0
+	github.com/stretchr/testify v1.9.0
+)
